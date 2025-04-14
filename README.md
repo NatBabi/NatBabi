@@ -71,7 +71,6 @@ Here are a few projects I'm currently working on:
 
 1. **[Workout Tracker Web App](https://github.com/NatBabi/Workout-Tracker-Web-App)** - A web app to track workouts using Node.js, Express.js, and MongoDB.
 2. **[Online Banking System for ASTU](https://github.com/NatBabi/Online-Banking)** - A secure system for managing financial transactions for students, teachers, and staff of ASTU.
-3. **[AI-based Personal Assistant](https://github.com/NatBabi/AI-Personal-Assistant)** - A personal assistant tool using Natural Language Processing (NLP).
 
 As I work through these projects, I'll continue refining my skills and contributing to open-source communities.
 
