@@ -1,6 +1,6 @@
 # Hi, I'm Natnael Tilahun 👋
 
-## Backend-Focused Full-Stack Developer | CS & Engineering Student
+## Backend-Focused Full-Stack Developer | CS & Engineering Graduate
 
 I'm a Computer Science and Engineering student at Adama Science and Technology University, building backend systems and full-stack applications with Node.js, NestJS, and the MERN stack. I combine hands-on software development with three years of IT support experience, giving me a practical, problem-solving approach to building and maintaining reliable systems.
 
