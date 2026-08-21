@@ -34,8 +34,8 @@ A backend-driven app to log, track, and analyze workouts, built with Node.js, Ex
 ### [OmniOptimize](https://github.com/andymarrow/OmniOptimize) — *Backend Contributor*
 An SEO optimization tool with CodeRabbit integration for code analysis and PageSpeed integration for SEO analysis. I built the server-side logic powering its analysis features.
 
-### [CRMP — CRM Platform](https://github.com/BunaCore) — *Backend & Frontend Contributor*
-A CRM platform built by BunaCore. I contributed across both the TypeScript backend and frontend repositories, including API and UI development.
+### [CRMP — Collabrative Research Management Platform](https://github.com/BunaCore) — *Backend & Frontend Contributor*
+A Collabrative Research Management platform built by BunaCore. I contributed across both the TypeScript backend and frontend repositories, including API and UI development.
 
 ### [commerce-ops-dashboard](https://github.com/NatBabi/commerce-ops-dashboard) — 🚧 *In Progress*
 A full-stack e-commerce operations dashboard in development, using React, TypeScript, NestJS, PostgreSQL, BullMQ, Stripe, Docker, AWS, and GitHub Actions.
