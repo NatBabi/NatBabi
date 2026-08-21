@@ -33,7 +33,7 @@ A backend-driven app to log, track, and analyze workouts, built with Node.js, Ex
 
 ### [OmniOptimize](https://github.com/andymarrow/OmniOptimize) — *Backend Contributor*
 An SEO optimization tool with CodeRabbit integration for code analysis and PageSpeed integration for SEO analysis. I built the server-side logic powering its analysis features.
-🔗 Live: [crmp-flow.vercel.app-](https://crmp-flow.vercel.app/)
+🔗 Live: [omni-optimize.vercel.app-](https://omni-optimize.vercel.app/)
 
 ### [CRMP — Collabrative Research Management Platform](https://github.com/BunaCore) — *Backend & Frontend Contributor*
 A Collabrative Research Management platform built by BunaCore. I contributed across both the TypeScript backend and frontend repositories, including API and UI development.
